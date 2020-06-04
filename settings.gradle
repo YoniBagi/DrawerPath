@@ -1,0 +1,3 @@
+rootProject.name='Draw Path'
+include ':app'
+include ':drawerpath'

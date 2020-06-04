@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawerPathView">
+        <attr name="animatorDurationSec" format="integer" />
+        <attr name="paddingRectangleFromEdge" format="integer" />
+        <attr name="widthRec" format="integer" />
+        <attr name="heightRec" format="integer" />
+        <attr name="roundCornerInPx" format="integer" />
+        <attr name="colorPath" format="color"/>
+    </declare-styleable>
+</resources>
